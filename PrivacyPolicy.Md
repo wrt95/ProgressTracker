@@ -1,3 +1,9 @@
+---
+layout: page
+title: privacy-policy
+permalink: /privacy-policy/
+---
+
 # Privacy Policy
 
 ProgressTracker takes your privacy seriously. To better protect your privacy ProgressTracker provide this privacy policy notice explaining the way your personal information is collected and used.

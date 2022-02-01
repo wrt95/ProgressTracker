@@ -13,6 +13,9 @@ Google Play Store: Link is coming..
 
 Coming soon...
 
+![Start page](/assets/img/IMG_6383.PNG "Start page")
+
+
 ### Privacy Policy
 
 Please follow [this](https://wrt95.github.io/ProgressTracker/privacy-policy/) link. 

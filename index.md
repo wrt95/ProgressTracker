@@ -11,7 +11,7 @@ Google Play Store: Link is coming..
 
 ### Application photos
 
-![Front page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/frontpage.png =10x20 "Start page" )
+![Front page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/frontpage.png "Start page" =10x20)
 ![Home page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/homepage.png "Home page") 
 ![Cretae new routine page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/newroutine.png "Create new routine page")
 ![Add exercise](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/addexercise.png "Add exercise")

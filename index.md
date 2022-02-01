@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ProgressTracker
 
 You can use the [editor on GitHub](https://github.com/wrt95/ProgressTracker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

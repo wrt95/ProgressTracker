@@ -12,25 +12,25 @@ Google Play Store: Link is coming..
 ### Application photos
 
 First page:   
-![Front page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/frontpage.png "Start page")
+![Front page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/frontpage.png "Start page")
 
 Home page:   
-![Home page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/homepage.png "Home page")
+![Home page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/homepage.png "Home page")
 
 Create new routine:   
-![Cretae new routine page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/newroutine.png "Create new routine page")
+![Cretae new routine page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/newroutine.png "Create new routine page")
 
 Routine home page:   
-![Routine page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/routine.png "Routine home page")
+![Routine page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/routine.png "Routine home page")
 
 When working out:   
-![Workout page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/workout.png "Workout page")
+![Workout page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/workout.png "Workout page")
 
 Tracking progression:   
-![Tracking page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/tracking.png "Tracking page")
+![Tracking page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/tracking.png "Tracking page")
 
 Settings:   
-![Settings page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/settings.png "Settings page")
+![Settings page](https://raw.githubusercontent.com/wrt95/ProgressTracker/gh-pages/assets/settings.png "Settings page")
 
 ### Privacy Policy
 

@@ -11,8 +11,8 @@ Google Play Store: Link is coming..
 
 ### Application photos
 
-First page: </br>
-![Front page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/frontpage.png "Start page")
+First page:   
+![Front page](/assets/frontpage.png "Start page")
 
 Home page:</br>
 ![Home page](https://github.com/wrt95/ProgressTracker/blob/gh-pages/assets/homepage.png "Home page")

@@ -1,37 +1,18 @@
 ## ProgressTracker
 
-You can use the [editor on GitHub](https://github.com/wrt95/ProgressTracker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ProgressTracker is a workout application where users can create their own workout routines, perform workouts, and track their progress on the different exercises. 
+The application is available for both iOS and Android. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How to get the app
 
-### Markdown
+Apple App Store: Link is coming..
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Google Play Store: Link is coming..
 
-```markdown
-Syntax highlighted code block
+### Application photos
 
-# Header 1
-## Header 2
-### Header 3
+Coming soon...
 
-- Bulleted
-- List
+### Privacy Policy
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wrt95/ProgressTracker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please follow [this](https://wrt95.github.io/ProgressTracker/privacy-policy/) link. 

@@ -37,4 +37,4 @@ ProgressTracker reserve the right to update or change the Privacy Policy at any 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send ProgressTracker an email to ProgressTracker@hotmail.com.
+For any questions or concerns regarding the privacy policy, please send ProgressTracker an email to ProgressTracker@hotmail.com. 
